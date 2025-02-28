@@ -3,7 +3,7 @@ import './globals.css'
 
 export const metadata: Metadata = {
   title: 'Spreadsheet',
-  description: 'Advanced Spreadsheet Application'
+  description: 'Spreadsheet Application'
 }
 
 export default function RootLayout({
